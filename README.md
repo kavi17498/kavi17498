@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kavindu Lakshan</h1>
+
 <h3 align="center">Undergraduate of Information technology and Management</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Information+teachnology+Student,;CTF+Newbie,;Self+Learner,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 - 🔭 I’m currently working on **Flutter Quiz App**
 
