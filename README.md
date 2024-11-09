@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on **Flutter Quiz App**
+- 🔭 I’m currently working on **Flutter Finance Tracker**
 
 - 🌱 I’m currently learning **Python for ML**
 
