@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Python for ML**
 
-- 💬 Ask me about **flutter ,React , Express JS**
+- 💬 Ask me about **flutter ,React**
 
 - 📫 How to reach me **kavindulakshan187@gmail.com**
 
