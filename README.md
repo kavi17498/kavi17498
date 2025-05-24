@@ -37,5 +37,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavi17498&" alt="kavi17498" /></p>
 
+<img src="https://github.com/user-attachments/assets/bdfe0bd4-8377-47dd-822c-38c9bb946d06" alt="CODZ" width="300"/>
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
+
