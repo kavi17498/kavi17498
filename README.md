@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Kavindu Lakshan</h1>
-<h3 align="center">Flutter App DEV | Dart | Unity Game Dev | C# | .NET Backend</h3>
+<h3 align="center">Flutter App Dev | Dart | Unity Game Dev | C# | .NET Backend</h3>
 
 - 🔭 I’m currently working on **BillOra Invoice App**
 
